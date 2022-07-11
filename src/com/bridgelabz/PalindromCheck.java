@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class PalindromCheck {
     public static void main(String[] args){
-        int n, c,r;u
+        int n, c,r;
         int s=0;
         System.out.print("Enter the Number");
         Scanner sc = new Scanner(System.in);
